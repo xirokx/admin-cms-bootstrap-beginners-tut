@@ -74,7 +74,7 @@ body{
 .main-color-bg{
   background-color: #e74c3c !important;
   border-color: #c0392b !important;
-  color: #fff;
+  color: #fff !important;
 }
 
 /* Header */
