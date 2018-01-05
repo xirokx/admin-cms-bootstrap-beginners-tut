@@ -99,7 +99,10 @@ body{
   color: #333;
 }
 
-
+.progress-bar{
+  background: #333;
+  color:#fff;
+}
 
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
