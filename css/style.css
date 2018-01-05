@@ -105,6 +105,11 @@ body{
   color:#fff;
 }
 
+/* Dash-Box */
+.dash-box{
+  text-align: center;
+}
+
 
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
