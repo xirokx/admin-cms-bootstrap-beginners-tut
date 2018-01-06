@@ -110,6 +110,11 @@ body{
   text-align: center;
 }
 
+/* Login Form */
+#login{
+  margin-top: 30px;
+}
+
 /* Footer */
 #footer{
   background: #333;
